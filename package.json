@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/project-js-debug-dragons/",
+    "build": "vite build --base=/js-92-project-js-debug-dragons/",
     "preview": "vite preview"
   },
   "devDependencies": {
